@@ -1,0 +1,2 @@
+selenium==2.21.2
+pdfminer==20140328
